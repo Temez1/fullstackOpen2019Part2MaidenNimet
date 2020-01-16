@@ -1,4 +1,4 @@
-Lyhyt demonstraatio REST rajapinnan hyödyntämisestä maihin liittyvien tietojen käsittelyssä. Sovelluksessa pystyy etsimään maailman eri maiden tietoja kuten asukaslukua, kieliä ja pääkaupunki. Nähdääksesi tiedot tulee sinun rajata haku vain yhteen maahan.
+Lyhyt demonstraatio REST rajapinnan hyödyntämisestä maihin liittyvien tietojen käsittelyssä. Sovelluksessa pystyy etsimään maailman eri maiden tietoja kuten asukaslukua, kieliä ja pääkaupunki. Nähdääksesi tiedot tulee sinun rajata haku vain yhteen maahan. <br> Koko kurssi löytyy [täältä](https://github.com/Temez1/fullstackOpen2019)
 
 ### `npm start`
 
